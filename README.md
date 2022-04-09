@@ -1,1 +1,2 @@
 # LBG-Vector-Quantizer
+* hi
