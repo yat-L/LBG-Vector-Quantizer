@@ -1,5 +1,5 @@
 main:
-	clang++ -Wall -g codebook.cpp main.cpp ImageIO.cpp -o a3
+	clang++ -Wall -g codebook.cpp main.cpp ImageIO.cpp -o LBG
 
 clean:
-	rm a3
+	rm LBG
